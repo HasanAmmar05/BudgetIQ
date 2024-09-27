@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import axios from 'axios';
-import { useAppContext } from '../contexts/AppContext';
+import { useAppContext } from '../Contexts/AppContext';
 import { RefreshCw } from 'lucide-react';
 
 

@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useAppContext } from '../contexts/AppContext';
+import { useAppContext } from '../Contexts/AppContext';
 import { format } from 'date-fns';
 import { Trash2, RefreshCw } from 'lucide-react';
 

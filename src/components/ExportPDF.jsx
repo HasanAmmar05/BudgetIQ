@@ -1,5 +1,5 @@
 import React from 'react';
-import { useAppContext } from '../contexts/AppContext';
+import { useAppContext } from '../Contexts/AppContext';
 import jsPDF from 'jspdf';
 import 'jspdf-autotable';
 import { FileDown } from 'lucide-react';

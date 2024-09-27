@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { useAppContext } from '../contexts/AppContext';
+import { useAppContext } from '../Contexts/AppContext';
 import { DollarSign, PiggyBank } from 'lucide-react';
 
 export default function FinancialOverview() {
