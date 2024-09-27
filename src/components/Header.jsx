@@ -1,5 +1,5 @@
 import React from 'react';
-import { useAppContext } from '../contexts/AppContext';
+import { useAppContext } from '../Contexts/AppContext';
 import { Sun, Moon } from 'lucide-react';
 
 export default function Header() {
