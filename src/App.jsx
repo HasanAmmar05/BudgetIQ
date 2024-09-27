@@ -1,5 +1,5 @@
 import React from 'react';
-import { AppProvider } from './contexts/AppContext';
+import { AppProvider } from './Contexts/AppContext';
 import Header from './components/Header';
 import DashBoard from './components/DashBoard';
 import ExpenseForm from './components/ExpenseForm';
