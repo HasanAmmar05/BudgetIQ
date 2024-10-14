@@ -69,7 +69,7 @@ https://advanced-expense-tracker-a3sc.vercel.app/
 
 ## Technologies Used
 
-- [React](https://reactjs.org/) with [JavaScript]
+- [React](https://reactjs.org/) with JavaScript
 - [Chart.js](https://www.chartjs.org/) for data visualization
 - [TensorFlow.js](https://www.tensorflow.org/js) for machine learning-based categorization
 - [Free Currency API](https://freecurrencyapi.com/) for real-time currency conversion
