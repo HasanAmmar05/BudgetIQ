@@ -1,4 +1,4 @@
-# Advanced Expense Tracker
+# BudgetIQ
 
 An intuitive and feature-rich expense tracking application designed to help you manage your finances effectively.
 
